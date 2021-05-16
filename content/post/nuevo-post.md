@@ -6,3 +6,4 @@ draft: true
 ## Este es un nuevo Post
 
 Este es un archivo de prueba Markdown!
+Y ESTE ES OTRO TEXTO
