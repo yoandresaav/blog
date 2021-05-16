@@ -19,13 +19,13 @@ params:
             - name: Posts
               url: "/blog/post"
             - name: Github
-              url: "https://github.com"
+              url: "https://github.com/yoandresaav/"
 
     socialIcons:
-        - name: "Facebook"
-          url: "<link>"
+        - name: "Linkedin"
+          url: "https://www.linkedin.com/in/yoandre-saavedra/"
         - name: "Twitter"
-          url: "<link>"
+          url: "https://twitter.com/yoandresaav"
 
     ShowShareButtons: true
     ShowReadingTime: true
