@@ -1,10 +1,11 @@
-baseURL: https://yoandresaav.github.io/blog/
+baseURL: "https://yoandresaav.github.io/blog/"
 languageCode: en-us
 title: Yoandre
 theme: "PaperMod"
 
 params:
     defaultTheme: auto
+    env: production
 
     profileMode:
         enabled: true
@@ -16,7 +17,7 @@ params:
         imageHeight: 120
         buttons:
             - name: Posts
-              url: "/post"
+              url: "/blog/post"
             - name: Github
               url: "https://github.com"
 
