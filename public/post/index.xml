@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Yoandre</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Yoandre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 May 2021 09:40:31 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuevo Post</title>
+      <link>http://example.org/post/nuevo-post/</link>
+      <pubDate>Wed, 05 May 2021 09:40:31 -0500</pubDate>
+      
+      <guid>http://example.org/post/nuevo-post/</guid>
+      <description>Este es un nuevo Post Este es un archivo de prueba Markdown! Y ESTE ES OTRO TEXTO</description>
+    </item>
+    
+  </channel>
+</rss>
