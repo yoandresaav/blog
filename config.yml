@@ -19,7 +19,7 @@ params:
             - name: Posts
               url: "/blog/posts"
             - name: Quien soy
-              url: "/blog/whoiam"
+              url: "whoiam"
             - name: Github
               url: "https://github.com/yoandresaav/"
 
