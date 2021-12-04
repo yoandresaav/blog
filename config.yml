@@ -13,7 +13,7 @@ params:
         subtitle: "Full Stack Developer"
         imageUrl: profile-image.png
         # imageUrl: "https://freepngimg.com/download/youtube/63841-profile-twitch-youtube-avatar-discord-free-download-image.png"
-        imageTitle: "Yoandre Twitter Photo"
+        imageTitle: "Yoandre Profile"
         imageWidth: 160
         imageHeight: 160
         buttons:
