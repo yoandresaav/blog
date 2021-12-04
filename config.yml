@@ -18,7 +18,7 @@ params:
         buttons:
             - name: Posts
               url: "/blog/posts"
-            - name: Quien soy
+            - name: Who I Am
               url: "whoiam"
             - name: Github
               url: "https://github.com/yoandresaav/"
