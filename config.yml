@@ -2,6 +2,7 @@ baseURL: "https://yoandresaav.github.io/blog/"
 languageCode: en-us
 title: Yoandre Saav
 theme: "PaperMod"
+googleAnalytics: G-ZB70WN60R4
 
 params:
     defaultTheme: auto
