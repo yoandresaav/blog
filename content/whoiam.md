@@ -3,6 +3,12 @@ title: "Who I Am?"
 date: 2021-05-16T15:45:19-05:00
 ---
 
-Hey there!, my name is Yoandre Saavedra. I start this blog with the intention of practices my English class. At this moment I'm in the intermediate level.
+Hey there!, my name is Yoandre Saavedra. I start this blog with the intention of learn/share tech skill while practices my English skill.
+At this moment I'm in the intermediate level.
 
-Also I like to wite code in python and javascript.
+My prefer languages to write code is python and javascript.
+
+![Python Code Example](/blog/python-image.jpg)
+
+### Django Framework
+I learned Django Framework in 2017 working solo in a telecom company. I came from Pascal, C, C++, Java, PHP, etc. and I'm still learning. When I meet python was match. Python is my favorite language because it's easy to learn and it's easy to use.
