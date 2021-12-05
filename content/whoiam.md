@@ -3,8 +3,7 @@ title: "Who I Am?"
 date: 2021-05-16T15:45:19-05:00
 ---
 
-Hey there!, my name is Yoandre Saavedra. I start this blog with the intention of learn/share tech skill while practices my English skill.
-At this moment I'm in the intermediate level.
+Hey there!, my name is Yoandre Saavedra. I start this blog with the intention of learn/share tech skill while practices my English.At this moment I'm in the intermediate English level.
 
 My prefer languages to write code is python and javascript.
 
