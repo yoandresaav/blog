@@ -14,3 +14,4 @@ In this example I bring the hello world! example using functions:
     saludar("Hello World!)
 {{< /highlight >}}
 
+I  like python becouse is simple and fast development. 
