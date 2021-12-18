@@ -10,4 +10,4 @@ My idea behind this blog,  is learn about fast html sites generators like [**Hug
 
 Hugo is developed using [**GO**](https://go.dev/) and inherit his speeds.
 
-I choose Hugo because it is a fast and simple to use. Use markdown for create content.
+I choose Hugo because it is a fast and simple to use. It use markdown for create content.
