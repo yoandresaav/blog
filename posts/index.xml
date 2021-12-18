@@ -3,4 +3,4 @@ Hello world Hugo!
 My idea behind this blog, is learn about fast html sites generators like Hugo and the technologies involved.
 Hugo is developed using GO and inherit his speeds.
 I choose Hugo because it is a fast and simple to use. It use markdown for create content.</description></item><item><title>Code Example</title><link>https://yoandresaav.github.io/blog/posts/code-example/</link><pubDate>Sun, 16 May 2021 15:26:06 -0500</pubDate><guid>https://yoandresaav.github.io/blog/posts/code-example/</guid><description>This is a python example code In this example I bring the hello world! example using functions:
-def saludar(msg): print(msg) saludar(&amp;#34;Hello World!)</description></item></channel></rss>
+def saludar(msg): print(msg) saludar(&amp;#34;Hello World!) I like python becouse is simple and fast development.</description></item></channel></rss>
