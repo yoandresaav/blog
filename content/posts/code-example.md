@@ -14,4 +14,11 @@ In this example I bring the hello world! example using functions:
     saludar("Hello World!)
 {{< /highlight >}}
 
-I  like python becouse is simple and fast development. 
+```python:saludar
+def saludar(msg):
+    print(msg)
+
+print('Hola Mundo!!!')
+```
+
+I  like python because is simple and fast development. Whats is the most

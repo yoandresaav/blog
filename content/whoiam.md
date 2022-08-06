@@ -4,10 +4,10 @@ date: 2021-05-16T15:45:19-05:00
 ---
 
 **Indice**
-1. [About me](#about-me)
-2. [Django Framework](#django-framework)
-3. [My prefers sites for learning](#my-prefers-sites-for-learning)
-4. [Other things](#others-things)
+- [About me](#about-me)
+- [Django Framework](#django-framework)
+- [My prefers sites for learning](#my-prefers-sites-for-learning)
+- [Others things](#others-things)
 
 ### About me
 
@@ -20,14 +20,15 @@ I started this blog with the intention of learn/share tech skill while practices
 
 ### Django Framework
 
-I learned Django Framework in 2017 working in VLenin Univerity at Las Tunas, Cuba. I came from Pascal, C, C++, Java, PHP, etc. and I still learning new things. When I meet python was  a match. I came from suffer with the fact that is very hard handle and convert primitive data in other language, faigth with punteros and poor packages disponiblility.
+I learned Django Framework in 2017 working in VLenin Univerity at Las Tunas, Cuba. I came from Pascal, C, C++, Java, PHP, etc. and I'm still learning new things like React. When I meet python, was  a match. I came from suffer with the fact that is hard handle and convert primitive data in other language, struggle with punteros and poor packages disponiblility.
 
 
 ### My prefers sites for learning
-1. [devDocs]()
-2. python backend developer sites
-3. othersome
+1. [devDocs](https://devdocs.io/)
+2. [Django Official Documentation](https://docs.djangoproject.com/en/4.0/)
+3. python backend developer sites
+4. othersome
 
 ### Others things
-1. I like plays chess
+1. I like play chess game, you can find me in [chess.com](https://www.chess.com/member/yoandresaav) and invit me to a game.
 
