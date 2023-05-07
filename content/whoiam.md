@@ -29,6 +29,10 @@ I learned Django Framework in 2017 working in VLenin Univerity at Las Tunas, Cub
 3. python backend developer sites
 4. othersome
 
+### I'm learning English
+
+I like learning English
+
 ### Others things
 1. I like play chess game, you can find me in [chess.com](https://www.chess.com/member/yoandresaav) and invit me to a game.
 
