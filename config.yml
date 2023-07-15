@@ -12,7 +12,7 @@ params:
         enabled: true
         title: "Yoandre Saavedra González"
         subtitle: "Full Stack Developer"
-        imageUrl: profile-image.png
+        imageUrl: profile-yoa.png
         # imageUrl: "https://freepngimg.com/download/youtube/63841-profile-twitch-youtube-avatar-discord-free-download-image.png"
         imageTitle: "Yoandre Profile"
         imageWidth: 160
@@ -36,6 +36,7 @@ params:
 
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    
+
     ShowToc: false
     ShowCodeCopyButtons: true
+
